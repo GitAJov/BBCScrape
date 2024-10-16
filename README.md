@@ -2,7 +2,7 @@
 # Network Visualization of Entities in BBC Indonesia Articles 
 
 This project scrapes news articles from BBC Indonesia, analyzes entities, and visualizes relationships using NetworkX.
-
+Kaggle Notebook Link: https://www.kaggle.com/code/invigi/bbcscrape
 ## Features
 
 - Web scraping to gather news articles from BBC Indonesia.
